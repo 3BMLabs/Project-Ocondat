@@ -346,7 +346,7 @@
 {"S120/9": [{"shape_coords":[120,9],"shape_name":"Rectangle","synonyms":["S120/9","S120x9","120x9"]}]},
 {"S120/10": [{"shape_coords":[120,10],"shape_name":"Rectangle","synonyms":["S120/10","S120x10","120x10"]}]},
 {"S120/12": [{"shape_coords":[120,12],"shape_name":"Rectangle","synonyms":["S120/12","S120x12","120x12"]}]},
-{"R8 ": [{"shape_coords":[8,4],"shape_name":"Round","synonyms":["R8 ","Rond 8 ","Rond8 "]}]},
+{"R8": [{"shape_coords":[8,4],"shape_name":"Round","synonyms":["R8","Rond 8","Rond8"]}]},
 {"R10": [{"shape_coords":[10,5],"shape_name":"Round","synonyms":["R10","Rond 10","Rond10"]}]},
 {"R12": [{"shape_coords":[12,6],"shape_name":"Round","synonyms":["R12","Rond 12","Rond12"]}]},
 {"R14": [{"shape_coords":[14,7],"shape_name":"Round","synonyms":["R14","Rond 14","Rond14"]}]},
